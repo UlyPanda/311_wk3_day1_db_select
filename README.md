@@ -44,20 +44,21 @@ Also, put the answers in the "Query Responses" section of this README.
 ## Query Responses
 
 1.
-  * How many rows were returned:
-  * First name of the first user:
+  * How many rows were returned: 7 rows
+  * First name of the first user: Mitsue
 
 2.
-  * How many rows were returned:
-  * What states do they live in:
+  * How many rows were returned: 2 rows
+  * What states do they live in: Maryland, Texas
 
 3.
-  * How many rows were returned:
-  * What's the last email on the list:
+  * How many rows were returned: 6 
+  * What's the last email on the list: nichelle_meteer@meteer.com
 
 ## Summary
 
 Think about how this data is laid out. Feel free to look in the `initialize.sql` file to see the raw data.
 
-* Do you think it would be easier or harder to search through this data manually or using SQL?
+* Do you think it would be easier or harder to search through this data manually or using SQL? Easier with SQL definitely
 * What about when the dataset gets larger?
+SQL still??
